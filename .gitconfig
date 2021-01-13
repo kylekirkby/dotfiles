@@ -1,0 +1,7 @@
+[user]
+	email = kyle.kirkby@linaro.org
+	name = Kyle Kirkby
+[alias]
+	st = status
+	s = status
+	cm = commit
